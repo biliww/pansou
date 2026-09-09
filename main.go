@@ -49,7 +49,7 @@ import (
 	_ "pansou/plugin/hunhepan"
 	_ "pansou/plugin/ikantv"
 	_ "pansou/plugin/jsnoteclub"
-	_ "pansou/plugin/jupansou"
+	//_ "pansou/plugin/jupansou"
 	_ "pansou/plugin/jutoushe"
 	_ "pansou/plugin/kkv"
 	_ "pansou/plugin/kpkuang"
