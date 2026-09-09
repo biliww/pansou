@@ -52,6 +52,7 @@ import (
 	_ "pansou/plugin/jupansou"
 	_ "pansou/plugin/jutoushe"
 	_ "pansou/plugin/kkv"
+	_ "pansou/plugin/kpkuang"
 	_ "pansou/plugin/labi"
 	_ "pansou/plugin/leso"
 	_ "pansou/plugin/libvio"
